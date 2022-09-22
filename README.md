@@ -1,1 +1,1 @@
-# Xinyan-RediSchool-Project# My Redi School Project
+# My Redi School Project
